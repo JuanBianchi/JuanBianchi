@@ -17,7 +17,7 @@
 - ⚡ Sobre mi: **Me encanta aprender constantemente nuevas tecnologías y metodologías de trabajo!**
 
 - ✨ Mis hobbies:
-    - 🚶 Caminar y pasear
+    - 🖌️ Dibujar
     - 🎮 Jugar
     - 🎬 Cine
     - 🏀 Basket
