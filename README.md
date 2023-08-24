@@ -8,8 +8,6 @@
 
 - 📚 Cursando la Tecnicatura en Programación en la UTN | FRA (Python).
 
-- 📚 Estudiando el curso completo de Python en Udemy por Federico Garay.
-
 - 🌱 Actualmente estoy aprendiendo **Python, Django y Java**
 
 - 📫 Contacto vía mail: **juampibianchi065@gmail.com**
