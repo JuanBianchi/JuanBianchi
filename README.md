@@ -8,7 +8,7 @@
 
 - 📚 Cursando la Tecnicatura en Programación en la UTN | FRA (Python).
 
-- 🌱 Actualmente estoy aprendiendo **Python, Django y Java**
+- 🌱 Actualmente estoy manejando **Python, Django, Django REST framework y Java**
 
 - 📫 Contacto vía mail: **juampibianchi065@gmail.com**
 
